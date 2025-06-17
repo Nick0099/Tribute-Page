@@ -1,0 +1,38 @@
+
+body{
+    text-align: center;
+    background-color:#eee;
+    color:#333;
+    font-size:1.6rem;
+  }
+
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 25px auto;
+    
+}
+a{
+    color:#333;;
+}
+
+#tribute-info{
+  font-size:19px;
+  
+}
+  #tribute-info ul {
+    text-align: left;
+    width: 70%;
+    margin: 25px auto;
+  }
+
+  #sec1 {
+    width:auto;
+    background-color: white;
+    padding-top:10px;
+    padding-bottom: 10px ;
+    padding-left:20px;
+    padding-right:20px;
+    margin: auto;
+  }

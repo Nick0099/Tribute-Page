@@ -1,12 +1,12 @@
-# Technical Documentation Page
+# Tribute Page - Dr. Sanduk Ruit
 
-A responsive technical documentation page designed as part of the FreeCodeCamp Responsive Web Design course. It includes a vertical navbar and multiple content sections.
+This is a tribute page dedicated to Dr. Sanduk Ruit, highlighting his contributions in the field of ophthalmology. It includes a detailed biography, timeline of achievements, and external references.
 
-## ✨ Features
-- Semantic HTML
-- CSS Flexbox layout
-- Responsive and mobile-friendly design
-- Sticky navigation sidebar
+## 🎯 Features
+- Responsive web layout
+- Semantic HTML elements
+- Timeline of events
+- External references and images
 
 ## 🛠️ Built With
 - HTML5
@@ -14,4 +14,3 @@ A responsive technical documentation page designed as part of the FreeCodeCamp R
 
 ## 📬 Contact
 - GitHub: [Nick0099](https://github.com/Nick0099)
-
